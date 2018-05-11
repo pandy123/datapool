@@ -1,0 +1,24 @@
+{
+    "name": "typeobjectpool",
+    "version": "1.0.0",
+    "description": "one mechanism is for consume object from a pool instead of creating and disposing them.",
+    "main": "./build/index.js",
+    "scripts": {
+        "test": "./test/test.js"
+    },
+    "types": "./types/index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pandy123/datapool.git"
+    },
+    "keywords": [
+        "typescript",
+        "node"
+    ],
+    "author": "Yanbei.HUANG",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/pandy123/datapool/issues"
+    },
+    "homepage": "https://github.com/pandy123/datapool#readme"
+}
